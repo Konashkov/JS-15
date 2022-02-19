@@ -1,0 +1,1 @@
+while((Number(prompt("Enter first number"))+ Number(prompt("Enter second number")))<=20){}
